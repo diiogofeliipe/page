@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.columnbox {
+    display: flex;
+    flex-direction: row;
+ 
+}
+.columnbox .column1 {
+    width: 300px;
+}
+
+.columnbox .column1 h2{
+    padding: 0px 20px;
+    font-family: 'Pacifico', cursive;
+    font-size: 36px;
+    color:#0f0f0f;
+}
